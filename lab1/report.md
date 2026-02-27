@@ -1,0 +1,1 @@
+In this lab, I learned how to manage files using Git and VS Code. I practiced creating files like LICENSE and test.txt, as well as staging and committing changes to track my progress. I also learned how to delete files and push those updates to my GitHub repository. Working with branches helped me understand how to keep my project organized while experimenting with new changes.

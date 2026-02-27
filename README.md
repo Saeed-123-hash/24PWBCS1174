@@ -1,25 +1,22 @@
-# CS 224L – Web Technologies Lab
+# Web Technologies Portfolio - UET Peshawar
+**Student ID:** 24PWBCS1174  
+**Course:** 224 Web Technologies  
 
-## Student Information
-**Name:** Muhammad Saeed  
-**Program:** BS Computer Science  
-**Department:** Computer Science  
-**University:** University of Engineering & Technology, Peshawar  
+## 🚀 Project Overview
+This repository serves as a live portfolio for my Web Technologies lab assignments. It is hosted via GitHub Pages and demonstrates skills in HTML5, CSS3, and Git workflows.
 
-## Project Description
-This repository contains lab tasks for CS 224L Web Technologies course.
+## 🔗 Live Demo
+You can view the live site here: [https://saeed-123-hash.github.io/24PWBCS1174/](https://saeed-123-hash.github.io/24PWBCS1174/)
 
-### Tasks Included:
-- Personal Profile Page
-- Course Schedule Table
-- Navigation Menu
-- Registration Form
-- GitHub Pages Deployment
-- Portfolio Landing Page
-- Cross Page Navigation
+## 🛠️ Features
+- **Responsive Design:** Works on mobile and desktop.
+- **Consistent Navigation:** Cross-page navigation with active state highlighting.
+- **UET Branding:** Custom styling reflecting university colors.
 
-## GitHub Pages Link
-(After deployment paste your GitHub Pages URL here)
+## 📂 Repository Structure
+- `index.html`: Main landing page.
+- `lab1.html`: First lab exercise.
+- `404.html`: Custom error handling page.
 
 ---
 

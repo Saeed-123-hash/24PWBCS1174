@@ -1,10 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #003366;
+        color: white;
+        padding: 15px;
+        text-align: center;
+    }
+
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    nav ul li {
+        display: inline;
+        margin: 10px;
+    }
+
+    nav ul li a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    }
+
+    nav ul li a.active {
+        color: yellow;
+        border-bottom: 2px solid yellow;
+    }
+
+    nav ul li a:hover {
+        color: lightgray;
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    .back-home {
+        display: block;
+        margin-top: 20px;
+    }
+</style>
     <meta charset="UTF-8">
     <title>Student Registration Form</title>
 </head>
 <body>
+    <header>
+    <h2>CS 224L – Web Technologies</h2>
+    <p>Department of Computer Science</p>
+    <p>University of Engineering & Technology, Peshawar</p>
+
+    <nav>
+        <ul>
+            <li><a href="index.html"</a></li>
+            <li><a href="profile.html">Profile</a></li>
+            <li><a href="schedule.html">Schedule</a></li>
+            <li><a href="registration.html"class="active">Register</a></li>
+            <li><a href="navigation.html">Navigation</a></li>
+        </ul>
+    </nav>
+</header>
 <h1>Student Registration Form</h1>
 <form>
 
